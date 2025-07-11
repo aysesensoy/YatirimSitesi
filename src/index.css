@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+
+#title_1{
+    background-color: rgb(155, 228, 228);
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
